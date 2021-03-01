@@ -5,6 +5,7 @@
 *.exe
 *.ilk
 *.o
+*.os
 *.pdb
 *.so
 *.idb
